@@ -84,19 +84,19 @@ ReLU - He
 
 
 ### ・実行結果のキャプチャ
-![image](https://user-images.githubusercontent.com/87635559/126128119-1ab2ab39-69b4-4d73-857e-1d510ccf8ba2.png)
+![image](https://user-images.githubusercontent.com/87635559/126128119-1ab2ab39-69b4-4d73-857e-1d510ccf8ba2.png)  
 SDG  
 
-![image](https://user-images.githubusercontent.com/87635559/126128173-77b0318e-856d-4953-81d2-911b613c8e61.png)
+![image](https://user-images.githubusercontent.com/87635559/126128173-77b0318e-856d-4953-81d2-911b613c8e61.png)  
 モメンタム  
 
 ![image](https://user-images.githubusercontent.com/87635559/126128226-3796aaf4-1dec-4839-9e42-32c7def91f47.png)
 AdaGrad  
 
-![image](https://user-images.githubusercontent.com/87635559/126128269-8acab86c-6d68-4e06-a86e-78c900cb3a07.png)
+![image](https://user-images.githubusercontent.com/87635559/126128269-8acab86c-6d68-4e06-a86e-78c900cb3a07.png)  
 RMSProp  
 
-![image](https://user-images.githubusercontent.com/87635559/126128335-515fee9c-6e54-4972-b797-f6d8c9fb8d90.png)
+![image](https://user-images.githubusercontent.com/87635559/126128335-515fee9c-6e54-4972-b797-f6d8c9fb8d90.png)  
 Adam  
 
 AdamとRMSprop以外は局所解に陥ってしまったようで全く正解率が向上しなかった．  
