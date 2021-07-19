@@ -263,7 +263,7 @@ Self-Attention … 自分の入力だけで学習的に注目すべき点を決�
 BLEUは機械翻訳の分野において最も一般的な自動評価基準の一つで、予め用意した複数の参照訳と、機械翻訳モデルが出力した訳のn-gramのマッチ率に基づく指標．  
 プロが翻訳した結果との予測結果の比較．  
 
-BERT（seq2seq）  
+■BERT（seq2seq）  
 
 ![image](https://user-images.githubusercontent.com/87635559/126142403-8ea6b528-4e41-4265-9ddf-7595cf848dc9.png)  
 
@@ -273,7 +273,7 @@ BERT（seq2seq）
 Pytorchの0.4.0を前提としているようだったが，installの実行でエラーになっていたので、それが原因かもしれない．  
 手動でcudaなどPytorch 0.4.0のrequireをすべてinstallするのは大変そうなのでここでは深追いしない．  
 
-BERT (transformer)  
+■BERT (transformer)  
 ![image](https://user-images.githubusercontent.com/87635559/126142641-b7cd7aca-d48c-4e42-9304-a420c2e21594.png)  
 Positional-Encodingの可視化  
 
