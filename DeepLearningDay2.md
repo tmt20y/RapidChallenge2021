@@ -34,14 +34,12 @@ Heでは重みの値を前の層のノード数の平方根で除算し，√２
 ### ・実行結果のキャプチャ
 ![image](https://user-images.githubusercontent.com/87635559/126127039-7af4d914-8792-464f-86bc-e5011efa9f0e.png)  
 sigmoid - gauss  
-![image](https://user-images.githubusercontent.com/87635559/126127196-37bb41c0-f733-425f-8bfc-8203c5c2111c.png)  
 
+![image](https://user-images.githubusercontent.com/87635559/126127196-37bb41c0-f733-425f-8bfc-8203c5c2111c.png)  
 ReLU – gauss  
  
 ![image](https://user-images.githubusercontent.com/87635559/126127177-b06dc5c5-d11b-4633-8ed6-dd89e1dfc9ae.png)  
-
 sigmoid - Xavier  
- 
  
 ![image](https://user-images.githubusercontent.com/87635559/126127165-5926b331-08f8-4494-87fa-c37007eb4326.png)
 ReLU - He  
