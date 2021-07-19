@@ -88,7 +88,7 @@ SDG
 ![image](https://user-images.githubusercontent.com/87635559/126128173-77b0318e-856d-4953-81d2-911b613c8e61.png)  
 モメンタム  
 
-![image](https://user-images.githubusercontent.com/87635559/126128226-3796aaf4-1dec-4839-9e42-32c7def91f47.png)
+![image](https://user-images.githubusercontent.com/87635559/126128226-3796aaf4-1dec-4839-9e42-32c7def91f47.png)  
 AdaGrad  
 
 ![image](https://user-images.githubusercontent.com/87635559/126128269-8acab86c-6d68-4e06-a86e-78c900cb3a07.png)  
