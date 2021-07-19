@@ -44,7 +44,7 @@ NNでは誤差関数を小さくに、強化学習では期待収益を大きく
 https://zakopilo.hatenablog.jp/entry/2021/01/30/214806  
 https://qiita.com/karaage0703/items/e237887894f0f1382d58  
 
-pytorch用のチュートリアルが用意されているようなので，E資格取得後に自分も遊んでみたい．  
+pytorch用のチュートリアルが用意されているようなので，E資格取得後にでも遊んでみたい．  
 
 ## AlphaGo
 ### ・講義のまとめ
