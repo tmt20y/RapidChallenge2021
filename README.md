@@ -4,4 +4,4 @@ I can't take any responsibility for the reliability of my articles.
 I may update the content of my articles to record my study.
 
 勉強の記録用です．
-内容の正確さは保証できませんm(_ _)m
+内容の正確さは保証できません．ご了承くださいm(_ _)m
